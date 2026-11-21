@@ -2,7 +2,7 @@
 
 ### 🎓 Automation & Control Engineering Student
 
-I'm a second-year Automation and Control student at **KBTU (Kazakhstan)**, interested in industrial automation, control systems, and modern engineering technologies.
+I'm a third-year Automation and Control student at **KBTU (Kazakhstan)**, interested in industrial automation, control systems, and modern engineering technologies.
 
 I'm currently developing my knowledge of how automated systems work — from sensors and controllers to industrial equipment and human-machine interfaces.
 
